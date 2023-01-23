@@ -16,9 +16,6 @@
     <img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black">
   </a>
 
-  <a href="[![Visits Badge](https://badges.pufler.dev/visits/siljeangelvik/siljeangelvik)]">
-    <img src="">
-  </a>
 </div>
 
 
