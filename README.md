@@ -80,3 +80,16 @@
 </a>
 
 </div>
+
+
+
+---
+
+<div>
+<h3>Tools used for this profile</h3>
+GitHub Profile Badges by <a href="https://home.aveek.io/GitHub-Profile-Badges/">Home aveek</a>  
+
+GitHub Profile Badges by <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile#badges">Alexandresanlim</a>
+
+Emoji Cheat Sheet by <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Webfx Tools</a>
+</div>
