@@ -1,7 +1,6 @@
 [![An image of @siljeangelvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siljeangelvik)](https://holopin.io/@siljeangelvik)
 
-
-<table border="0" style="border: none;">
+<table style="border: none;">
  <tr style="border: none;">
     <td style="border: none; text-align: center;"><b style="font-size:30px">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave Emoji"/></b></td>
     <td style="border: none; text-align: center;"><b style="font-size:30px;">🔗</b></td>
@@ -36,4 +35,3 @@
 </table>
 
 ![Silje's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siljeangelvik&show_icons=true&title_color=ffffff&icon_color=36F9F6&text_color=FF7EDB&bg_color=00000000&hide_border=true)
-
