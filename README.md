@@ -1,95 +1,39 @@
-<div id="header" align="center">
-  <img src="assets/binary_ghgb.png" alt="Binary Code Header"/>
-<!--  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+[![An image of @siljeangelvik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siljeangelvik)](https://holopin.io/@siljeangelvik)
 
 
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave Emoji"/>
-</h1>
+<table border="0" style="border: none;">
+ <tr style="border: none;">
+    <td style="border: none; text-align: center;"><b style="font-size:30px">Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave Emoji"/></b></td>
+    <td style="border: none; text-align: center;"><b style="font-size:30px;">🔗</b></td>
+ </tr>
+ <tr style="border: none;">
+    <td style="border: none;">My name is Silje Angelvik and I'm a Frontend Developer from Norway. I'm currently a student at <a href="https://www.noroff.no/en/">Noroff</a> , where I'm studying <a href="https://www.noroff.no/en/studies/vocational-school/front-end-development">Frontend Development</a>.</td>
+    <td style="width: 45%; border: none; text-align: center;">
+        <a href="https://www.linkedin.com/in/siljeangelvik/" style="display: block;">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" />
+        </a>
+        <a href="https://codepen.io/siljeangelvik" style="display: block;">
+            <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen Badge" />
+        </a>
+        <a href="https://github.com/siljeangelvik" style="display: block;">
+            <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
+        </a>
+        <a href = "mailto: angelviksilje@gmail.com" style="display: block;">
+            <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+        </a>
+    </td>
+</tr>
+<tr style="border: none;">
+    <td style="border: none;">
+        <b style="font-size: 22px;">📚 Previous Assignments</b>
+        <ul>
+            <li style="list-style: none;"><a href = "https://github.com/siljeangelvik/semesterproject2">Semester Project 2 Repo</a></li>
+            <li style="list-style: none;"><a href = "https://github.com/siljeangelvik/react-ts-shopping-cart">JavaScript Frameworks CA Repo</a></li>
+            <li style="list-style: none;"><a href = "https://github.com/siljeangelvik/react-antd-holidaze-exam">Project Exam 2 Repo</a></li>
+        </ul>
+    </td>
+</tr>
+</table>
 
-<h2 align="center">* _Still a work in progress_ *</h2>
+![Silje's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siljeangelvik&show_icons=true&title_color=ffffff&icon_color=36F9F6&text_color=FF7EDB&bg_color=00000000&hide_border=true)
 
-</div>
-
----
-
-
-<div id="badges" style="display: flex; flex-direction: column;">
-<h3>Profiles</h3>
-
-<a href="https://www.linkedin.com/in/siljeangelvik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" />
-</a>
-<a href="https://codepen.io/siljeangelvik">
-    <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen Badge" />
-</a>
-<a href="https://github.com/siljeangelvik">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
-</a>
-
-</div>
-
-<!--
-******* TEMPLATE ******
-<a href="">
-    <img src="" alt=" Badge" />
-</a>
--->
-
-<div style="display: flex; flex-direction: column;">
-<h3>Tools used</h3>
-<h4>Web Development</h4>
-
-<a href="">
-    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5 Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3 Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="TailWind Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/PostCSS-DD3A0A.svg?style=for-the-badge&logo=PostCSS&logoColor=white" alt="PostCSS Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" alt="Webpack Badge" />
-</a>
-<h4>E2E and Unit Testing</h4>
-
-<a href="">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white" alt="Cypress Badge" />
-</a>
-<h4>Hosting</h4>
-
-<a href="">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="GitHub Pages Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="Netlify Badge" />
-</a>
-<a href="">
-    <img src="https://img.shields.io/badge/FileZilla-BF0000.svg?style=for-the-badge&logo=FileZilla&logoColor=white" alt="FileZilla Badge" />
-</a>
-
-</div>
-
-
-
----
-
-<div>
-<h3>Tools used for this profile</h3>
-GitHub Profile Badges by <a href="https://home.aveek.io/GitHub-Profile-Badges/">Home aveek</a>  
-
-GitHub Profile Badges by <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile#badges">Alexandresanlim</a>
-
-Emoji Cheat Sheet by <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">Webfx Tools</a>
-</div>
