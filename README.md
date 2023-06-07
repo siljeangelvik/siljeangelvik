@@ -36,4 +36,8 @@ it:**_ [Front End Development](https://www.noroff.no/en/studies/vocational-schoo
 
 ## 😅 Random Joke 4 U
 
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=00000000&theme=cobalt&qColor=%2336F9F6&aColor=%23FF7EDB" alt="Jokes Card" width="300px" />
+
+<!-- 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=00000000&theme=cobalt&qColor=%2336F9F6&aColor=%23FF7EDB)
+-->
