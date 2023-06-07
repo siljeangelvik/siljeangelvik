@@ -2,19 +2,21 @@
 
 # Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hand Wave Emoji"/>
 
-My name is Silje Angelvik and I am a Junior Front End Developer from Norway.  
-I'm currently a student at [Noroff](https://www.noroff.no/en/), where I'm studying, _**you guessed
-it:**_ [Front End Development](https://www.noroff.no/en/studies/vocational-school/front-end-development). 😜
+![GitHub last commit](https://img.shields.io/github/last-commit/siljeangelvik/siljeangelvik?&color=36F9F6)
+
+My name is Silje, and I am a Junior Front End Developer from Norway.   
+I'm currently a student at [Noroff](https://www.noroff.no/en/), where I'm studying, _**you guessed it:**_   
+[Front End Development](https://www.noroff.no/en/studies/vocational-school/front-end-development). 😜
 
 ![Silje's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siljeangelvik&show_icons=true&title_color=ffffff&icon_color=36F9F6&text_color=FF7EDB&bg_color=00000000&hide_border=true)
 
 ## 📚 Previous Assignments
 
-| Assignments                  | Repositories                                                                      | Hosted Demos                                           |
-|------------------------------|:----------------------------------------------------------------------------------|:-------------------------------------------------------|
-| **Semester Project 2**       | [Asta Auction Application](https://github.com/siljeangelvik/semesterproject2)     | [Netlify](https://silje-semesterproject2.netlify.app/) |
-| **JavaScript Frameworks CA** | [React TS Shopping Cart](https://github.com/siljeangelvik/react-ts-shopping-cart) | [Netlify](https://react-ts-ecom-cart.netlify.app/)     |
-| **Project Exam 2**           | [React AntD Holidaze](https://github.com/siljeangelvik/react-antd-holidaze-exam)  | [Netlify](https://exam-holidaze.netlify.app/)          |
+| Assignments            | Repositories                                                                      | Hosted Demos                                           |
+|------------------------|:----------------------------------------------------------------------------------|:-------------------------------------------------------|
+| **Semester Project 2** | [Asta Auction Application](https://github.com/siljeangelvik/semesterproject2)     | [Netlify](https://silje-semesterproject2.netlify.app/) |
+| **JS Frameworks CA**   | [React TS Shopping Cart](https://github.com/siljeangelvik/react-ts-shopping-cart) | [Netlify](https://react-ts-ecom-cart.netlify.app/)     |
+| **Project Exam 2**     | [React AntD Holidaze](https://github.com/siljeangelvik/react-antd-holidaze-exam)  | [Netlify](https://exam-holidaze.netlify.app/)          |
 
 ## 🔗 Socials
 
