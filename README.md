@@ -40,6 +40,6 @@ I'm currently a student at [Noroff](https://www.noroff.no/en/), where I'm studyi
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=00000000&theme=cobalt&qColor=%2336F9F6&aColor=%23FF7EDB" alt="Jokes Card" width="300px" />
 
-<!-- 
+<!--
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=00000000&theme=cobalt&qColor=%2336F9F6&aColor=%23FF7EDB)
 -->
